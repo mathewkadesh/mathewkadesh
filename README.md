@@ -1,24 +1,23 @@
 <!-- ============================================================
-     GitHub Profile README — Kadesh
-     Replace mathewkadesh with your actual GitHub username
-     Replace YOUR_LINKEDIN with your LinkedIn profile slug
-     Replace YOUR_EMAIL with your contact email
+     GitHub Profile README — Mathew Kadesh (@mathewkadesh)
+     LinkedIn: mathew-kadesh-141b37188
+     Email: kadeshmathew@gmail.com
      ============================================================ -->
 
 <!-- ───────────── HERO ───────────── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00A86B&center=true&vCenter=true&width=640&lines=%F0%9F%9A%80+Building+AI-powered+SaaS;%F0%9F%A7%A0+Founder+of+Aptira+%26+SocialPulse+AI;%E2%9A%A1+Full-Stack+Engineer+from+Bristol%2C+UK;%F0%9F%A4%96+Exploring+Agentic+AI+%26+LLM+Systems" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00A86B&center=true&vCenter=true&width=680&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+AI+%26+SaaS+Specialist;%F0%9F%A7%A0+Building+Production+AI-Powered+Products;%E2%9A%A1+React+%C2%B7+FastAPI+%C2%B7+Supabase+%C2%B7+TypeScript;%F0%9F%8C%8D+Open+to+Remote+Opportunities+Worldwide" alt="Typing animation" />
 
 <br />
 
-# Hey, I'm Kadesh 👋
+# Hey, I'm Mathew Kadesh 👋
 
-### Founder · Engineer · Builder of useful AI
+### Full-Stack Engineer &nbsp;·&nbsp; AI/ML Developer &nbsp;·&nbsp; Remote-Ready 🌍
 
-<a href="https://www.aptira.uk"><img src="https://img.shields.io/badge/OrahAI_Limited-Founder_%26_CEO-0B1F3A?style=for-the-badge&logoColor=00A86B" alt="Founder Badge"/></a>
-<img src="https://img.shields.io/badge/Bristol-UK_%F0%9F%87%AC%F0%9F%87%A7-00A86B?style=for-the-badge" alt="Location Badge"/>
-<img src="https://img.shields.io/badge/Open_to-Collaboration-0B1F3A?style=for-the-badge" alt="Open Badge"/>
+<img src="https://img.shields.io/badge/Open_to-Remote_Roles_Worldwide-00A86B?style=for-the-badge" alt="Remote Badge"/>
+<img src="https://img.shields.io/badge/Bristol-UK_%F0%9F%87%AC%F0%9F%87%A7-0B1F3A?style=for-the-badge" alt="Location Badge"/>
+<img src="https://img.shields.io/badge/MSc-Advanced_Computer_Science-0B1F3A?style=for-the-badge" alt="Education Badge"/>
 
 </div>
 
@@ -28,12 +27,12 @@
 
 <div align="center">
 
-> I'm a **solo technical founder** building AI-powered SaaS out of Bristol, UK.  
-> By weekday, I lead **OrahAI Limited** — shipping **Aptira** and **SocialPulse AI** from blank canvas to production.  
-> By Sunday, I teach Sunday School — which keeps me grounded in *why* I build at all.  
-> I care about craft, calm code, and AI that quietly makes someone's day better.  
-> Coffee in Bristol, schema in Supabase, prompts in Claude — that's a good day.  
-> 🙏 *If it ships, helps real people, and feels honest — I'm in.*
+> I'm a **full-stack engineer** specialising in AI-integrated SaaS, based in Bristol, UK — open to remote roles worldwide.  
+> I hold an **MSc in Advanced Computer Science** (Cardiff Metropolitan University) and a **First Class BEng in Software Engineering**.  
+> My sweet spot is building production-grade products end-to-end: from database schema and FastAPI backends to polished React frontends.  
+> I work closely with **LLMs, agentic systems, and AI APIs** — not just as tools, but as core product features that solve real problems.  
+> Outside code, I teach Sunday School — which keeps me sharp on communication, patience, and why clarity matters.  
+> 🙏 *I write code that ships, scales, and actually helps people.*
 
 </div>
 
@@ -59,6 +58,8 @@
   <img src="https://img.shields.io/badge/Express-0B1F3A?style=for-the-badge&logo=express&logoColor=00A86B" />
   <img src="https://img.shields.io/badge/FastAPI-0B1F3A?style=for-the-badge&logo=fastapi&logoColor=00A86B" />
   <img src="https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=00A86B" />
+  <img src="https://img.shields.io/badge/REST_APIs-0B1F3A?style=for-the-badge&logoColor=00A86B" />
+  <img src="https://img.shields.io/badge/JWT_Auth-0B1F3A?style=for-the-badge&logoColor=00A86B" />
 </p>
 
 #### 🗄️ Database & Cloud
@@ -86,8 +87,8 @@
   <img src="https://img.shields.io/badge/Git-0B1F3A?style=for-the-badge&logo=git&logoColor=00A86B" />
   <img src="https://img.shields.io/badge/GitHub_Actions-0B1F3A?style=for-the-badge&logo=githubactions&logoColor=00A86B" />
   <img src="https://img.shields.io/badge/Docker-0B1F3A?style=for-the-badge&logo=docker&logoColor=00A86B" />
-  <img src="https://img.shields.io/badge/Hostinger-0B1F3A?style=for-the-badge&logo=hostinger&logoColor=00A86B" />
   <img src="https://img.shields.io/badge/Vercel-0B1F3A?style=for-the-badge&logo=vercel&logoColor=00A86B" />
+  <img src="https://img.shields.io/badge/Hostinger-0B1F3A?style=for-the-badge&logo=hostinger&logoColor=00A86B" />
 </p>
 
 ---
@@ -100,19 +101,20 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 Aptira</h3>
-      <p><em>AI-powered employment readiness scoring platform.</em></p>
+      <p><em>AI-powered employment readiness scoring platform — full-stack build from schema to deployment.</em></p>
       <p>
         <img src="https://img.shields.io/badge/React-0B1F3A?style=flat-square&logo=react&logoColor=00A86B" />
         <img src="https://img.shields.io/badge/FastAPI-0B1F3A?style=flat-square&logo=fastapi&logoColor=00A86B" />
         <img src="https://img.shields.io/badge/Supabase-0B1F3A?style=flat-square&logo=supabase&logoColor=00A86B" />
         <img src="https://img.shields.io/badge/Claude_API-0B1F3A?style=flat-square&logo=anthropic&logoColor=00A86B" />
+        <img src="https://img.shields.io/badge/TypeScript-0B1F3A?style=flat-square&logo=typescript&logoColor=00A86B" />
       </p>
       <p><img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2_Live-00A86B?style=flat-square" /></p>
-      <a href="https://www.aptira.uk">→ View Project</a>
+      <a href="https://www.aptira.uk">→ View Live Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>📣 SocialPulse AI</h3>
-      <p><em>Social media management for UK local businesses.</em></p>
+      <p><em>AI-driven social media management platform for local businesses — Meta Graph API integration.</em></p>
       <p>
         <img src="https://img.shields.io/badge/React-0B1F3A?style=flat-square&logo=react&logoColor=00A86B" />
         <img src="https://img.shields.io/badge/Vite-0B1F3A?style=flat-square&logo=vite&logoColor=00A86B" />
@@ -121,14 +123,14 @@
         <img src="https://img.shields.io/badge/Claude_API-0B1F3A?style=flat-square&logo=anthropic&logoColor=00A86B" />
       </p>
       <p><img src="https://img.shields.io/badge/Status-%F0%9F%94%B5_In_Development-0B1F3A?style=flat-square" /></p>
-      <!-- Replace with your project URL -->
+      <!-- Replace with your project URL when live -->
       <a href="#">→ View Project</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏋️ AtlasGym</h3>
-      <p><em>Gym management SaaS platform.</em></p>
+      <p><em>Full-featured gym management SaaS — bookings, memberships, and analytics dashboard.</em></p>
       <p>
         <img src="https://img.shields.io/badge/React-0B1F3A?style=flat-square&logo=react&logoColor=00A86B" />
         <img src="https://img.shields.io/badge/Vite-0B1F3A?style=flat-square&logo=vite&logoColor=00A86B" />
@@ -136,20 +138,21 @@
         <img src="https://img.shields.io/badge/Supabase-0B1F3A?style=flat-square&logo=supabase&logoColor=00A86B" />
       </p>
       <p><img src="https://img.shields.io/badge/Status-%F0%9F%9F%A1_Building-CFA000?style=flat-square" /></p>
-      <!-- Replace with your project URL -->
+      <!-- Replace with your project URL when live -->
       <a href="#">→ View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>✝️ FaithConnect</h3>
-      <p><em>Christian community & e-commerce platform.</em></p>
+      <p><em>Christian community platform with e-commerce, 3D product views, and payment integration.</em></p>
       <p>
         <img src="https://img.shields.io/badge/React-0B1F3A?style=flat-square&logo=react&logoColor=00A86B" />
         <img src="https://img.shields.io/badge/Node.js-0B1F3A?style=flat-square&logo=nodedotjs&logoColor=00A86B" />
         <img src="https://img.shields.io/badge/Supabase-0B1F3A?style=flat-square&logo=supabase&logoColor=00A86B" />
         <img src="https://img.shields.io/badge/Stripe-0B1F3A?style=flat-square&logo=stripe&logoColor=00A86B" />
+        <img src="https://img.shields.io/badge/Three.js-0B1F3A?style=flat-square&logo=threedotjs&logoColor=00A86B" />
       </p>
       <p><img src="https://img.shields.io/badge/Status-%F0%9F%9F%A1_Building-CFA000?style=flat-square" /></p>
-      <!-- Replace with your project URL -->
+      <!-- Replace with your project URL when live -->
       <a href="#">→ View Project</a>
     </td>
   </tr>
@@ -159,24 +162,24 @@
 
 <!-- ───────────── AI HIGHLIGHT ───────────── -->
 
-## 🤖 AI & Knowledge — The Way I Build
+## 🤖 AI Integration — How I Work With It
 
 <table>
   <tr>
     <td>
 
 ### 🧩 My AI Stack
-`Anthropic Claude API` · `OpenAI` · `LangChain` · `n8n` · `Make.com` · `Supabase Vector` · `RAG Pipelines` · `Agentic Workflows`
+`Anthropic Claude API` &nbsp;·&nbsp; `OpenAI` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `n8n` &nbsp;·&nbsp; `Make.com` &nbsp;·&nbsp; `Supabase Vector` &nbsp;·&nbsp; `RAG Pipelines` &nbsp;·&nbsp; `Agentic Workflows`
 
-### 🎯 My AI Philosophy
-I build AI that **actually helps people** — not hype, not demos, not a chatbot bolted onto a landing page. Real products. In production. Solving real problems for real users. The goal isn't to look clever; it's to make someone's Tuesday afternoon noticeably easier.
+### 🎯 How I Approach AI in Engineering
+I integrate AI as a **functional layer within production applications** — not as a demo feature or a bolt-on. My work involves designing prompt pipelines, building agentic tool-calling systems, and connecting LLMs to real databases and APIs to deliver measurable outcomes for end users.
 
-### ✅ Three Things I Believe
-- ✅ **Boring is a feature.** AI should disappear behind the outcome.
-- ✅ **Ship the smallest useful thing.** Then talk to users. Then ship again.
-- ✅ **Trust > novelty.** A reliable assistant beats a flashy one every time.
+### ✅ Engineering Principles I Work By
+- ✅ **Production over prototype.** Every AI feature I ship runs live with real users.
+- ✅ **Reliability first.** A consistent, predictable AI experience beats a clever one.
+- ✅ **End-to-end ownership.** I design the schema, build the API, wire the AI, and ship the UI.
 
-</td>
+  </td>
   </tr>
 </table>
 
@@ -188,7 +191,6 @@ I build AI that **actually helps people** — not hype, not demos, not a chatbot
 
 <div align="center">
 
-<!-- Replace mathewkadesh below with your GitHub username -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathewkadesh&show_icons=true&theme=transparent&hide_border=true&title_color=00A86B&icon_color=00A86B&text_color=0B1F3A&bg_color=F7F9FB" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewkadesh&layout=compact&theme=transparent&hide_border=true&title_color=00A86B&text_color=0B1F3A&bg_color=F7F9FB" />
 
@@ -202,12 +204,12 @@ I build AI that **actually helps people** — not hype, not demos, not a chatbot
 
 <!-- ───────────── LEARNING ───────────── -->
 
-## 🌱 Currently Learning & Exploring
+## 🌱 Currently Sharpening
 
-- 📡 **Meta Graph API** — for SocialPulse AI's social media automation
-- 📜 **Patent strategy** for AI-powered SaaS in the UK *(working with Withers & Rogers)*
-- 🤖 **Agentic AI workflows** with Claude, n8n & tool-calling architectures
-- 💼 **Series A fundraising** preparation for Aptira
+- 📡 **Meta Graph API** — social media automation and webhook integrations
+- 🤖 **Agentic AI workflows** — Claude tool-calling, multi-step reasoning chains, n8n pipelines
+- 🔐 **Production security patterns** — JWT hardening, RBAC, DPIA compliance for SaaS
+- ☁️ **Cloud architecture** — scaling Supabase-backed apps with edge functions and caching layers
 
 ---
 
@@ -217,17 +219,21 @@ I build AI that **actually helps people** — not hype, not demos, not a chatbot
 
 <div align="center">
 
-<!-- Replace YOUR_LINKEDIN with your LinkedIn vanity URL -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+
+<a href="https://www.linkedin.com/in/mathew-kadesh-141b37188/">
   <img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.aptira.uk">
-  <img src="https://img.shields.io/badge/aptira.uk-0B1F3A?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/Portfolio-aptira.uk-0B1F3A?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
 </a>
-<!-- Replace YOUR_EMAIL with your contact email -->
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<!-- Email: kadeshmathew@gmail.com -->
+<a href="mailto:kadeshmathew@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+<br /><br />
+
+> 💼 **Available for remote full-stack or AI engineering roles — open to contract & full-time worldwide.**
 
 </div>
 
@@ -241,9 +247,8 @@ I build AI that **actually helps people** — not hype, not demos, not a chatbot
 
 <br />
 
-<!-- Replace mathewkadesh with your GitHub username -->
 <img src="https://komarev.com/ghpvc/?username=mathewkadesh&color=00A86B&style=flat-square&label=Profile+Views" alt="Profile views" />
 
-<sub>Thanks for stopping by — now go build something honest. 🌿</sub>
+<sub>Every line of code here started with a real problem worth solving. 🌿</sub>
 
 </div>
